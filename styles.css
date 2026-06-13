@@ -734,6 +734,12 @@ section { padding: 96px 0; }
   text-align: center;
   margin-top: 12px;
 }
+.value-stack-fineprint {
+  font-size: 13px;
+  color: var(--text-secondary);
+  margin-top: 8px;
+  font-style: italic;
+}
 
 /* ============================================================
    PRICING
