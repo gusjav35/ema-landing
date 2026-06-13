@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cómo eliminar tu cuenta — Ema</title>
+  <meta name="theme-color" content="#1A2238">
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --primary: #1A2238;
+      --accent: #E8B85F;
+      --bg: #FBF6EE;
+      --text: #1A2238;
+      --text-secondary: #5D6B82;
+      --border: #ECE4D2;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Poppins', system-ui, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.7;
+      padding: 40px 20px;
+    }
+    .container { max-width: 760px; margin: 0 auto; }
+    header { margin-bottom: 40px; padding-bottom: 24px; border-bottom: 1px solid var(--border); }
+    .brand {
+      display: inline-flex; align-items: center; gap: 8px;
+      font-size: 22px; font-weight: 700; color: var(--primary);
+      text-decoration: none; margin-bottom: 20px;
+    }
+    .brand-mark { color: var(--accent); }
+    h1 { font-size: 32px; font-weight: 700; line-height: 1.2; margin-bottom: 8px; }
+    .meta { color: var(--text-secondary); font-size: 14px; }
+    h2 { font-size: 22px; font-weight: 700; margin-top: 36px; margin-bottom: 14px; }
+    p, li { font-size: 15px; margin-bottom: 12px; }
+    ul, ol { padding-left: 22px; margin-bottom: 16px; }
+    table {
+      width: 100%; border-collapse: collapse; margin: 16px 0 24px;
+      font-size: 14px;
+    }
+    th, td { padding: 10px 12px; text-align: left; border-bottom: 1px solid var(--border); vertical-align: top; }
+    th { background: #fff; font-weight: 600; color: var(--primary); }
+    a { color: var(--primary); text-decoration: underline; }
+    a:hover { color: var(--accent); }
+    code {
+      background: #fff; padding: 2px 6px; border-radius: 4px;
+      font-size: 13px; border: 1px solid var(--border);
+    }
+    .highlight {
+      background: #fff; border: 2px solid var(--accent);
+      border-radius: 12px; padding: 20px; margin: 16px 0;
+    }
+    .footer {
+      margin-top: 48px; padding-top: 24px;
+      border-top: 1px solid var(--border);
+      color: var(--text-secondary); font-size: 13px;
+    }
+    @media (max-width: 600px) {
+      body { padding: 24px 16px; }
+      h1 { font-size: 26px; }
+      h2 { font-size: 19px; }
+      table, thead, tbody, tr, th, td { display: block; }
+      th { display: none; }
+      td { border: none; padding: 4px 0; }
+      tr { border-bottom: 1px solid var(--border); padding: 12px 0; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <a href="index.html" class="brand"><span class="brand-mark">✨</span> Ema</a>
+      <h1>Cómo eliminar tu cuenta en Ema</h1>
+      <p class="meta"><strong>App:</strong> Ema · <strong>Desarrollador:</strong> AppsDevLabs</p>
+    </header>
+
+    <p>Si querés eliminar tu cuenta y los datos asociados en Ema, esta página te explica cómo hacerlo, qué se borra, qué se conserva y por cuánto tiempo.</p>
+
+    <h2>Cómo solicitar la eliminación</h2>
+    <p>Por ahora la eliminación se procesa por email:</p>
+    <div class="highlight">
+      <ol>
+        <li><strong>Enviá un correo</strong> a <strong>appsdevlabs@gmail.com</strong></li>
+        <li><strong>Asunto:</strong> <code>Eliminar mi cuenta de Ema</code></li>
+        <li><strong>Incluí:</strong> el email con el que te registraste.</li>
+        <li><strong>(Opcional)</strong> Contanos por qué te vas si querés. No es obligatorio.</li>
+      </ol>
+    </div>
+    <p>Procesamos la solicitud en un <strong>plazo máximo de 30 días</strong> y te confirmamos por email cuando esté hecho.</p>
+
+    <h2>Qué datos se eliminan</h2>
+    <p>Al confirmar la eliminación, borramos de forma definitiva:</p>
+    <ul>
+      <li>Tu <strong>email</strong> y tu <strong>cuenta</strong> en nuestro sistema de autenticación.</li>
+      <li>El <strong>perfil del adulto</strong> (nombre si lo cargaste).</li>
+      <li>Los <strong>perfiles de los hijos</strong> (nombre, edad, sexo si los registraste).</li>
+      <li>Tus <strong>preferencias</strong> (objetivos, nivel de fe, hora de recordatorio).</li>
+      <li>Tus <strong>favoritos</strong> guardados.</li>
+      <li>El vínculo con tu <strong>suscripción</strong> en nuestros sistemas.</li>
+    </ul>
+
+    <h2>Qué datos se conservan (y por qué)</h2>
+    <p>Algunos datos los retenemos por requerimientos legales o de seguridad:</p>
+    <table>
+      <thead><tr><th>Dato</th><th>Cuánto tiempo</th><th>Por qué</th></tr></thead>
+      <tbody>
+        <tr><td><strong>Registros de facturación</strong></td><td>5 a 10 años según jurisdicción</td><td>Obligación fiscal y contable</td></tr>
+        <tr><td><strong>Logs de seguridad</strong> (intentos de login, IPs)</td><td>Hasta 12 meses</td><td>Detectar fraude y abuso</td></tr>
+        <tr><td><strong>Datos requeridos por tribunales</strong></td><td>Lo que ordene la autoridad</td><td>Cumplimiento legal</td></tr>
+      </tbody>
+    </table>
+    <p>Estos registros <strong>no incluyen tu email ni datos identificables</strong> después de la eliminación — se anonimizan y solo conservan campos contables.</p>
+
+    <h2>Sobre las compras vía Google Play o App Store</h2>
+    <p>La <strong>gestión de tu suscripción de pago</strong> la hacen Google y Apple en sus propios sistemas, no Ema. Si querés cancelar la suscripción o pedir reembolso:</p>
+    <ul>
+      <li><strong>Android:</strong> Play Store → Pagos y suscripciones → Ema → Cancelar.</li>
+      <li><strong>iOS:</strong> Ajustes → tu perfil → Suscripciones → Ema → Cancelar.</li>
+    </ul>
+    <p>Eliminar tu cuenta de Ema <strong>no cancela automáticamente</strong> una suscripción activa en la tienda. Cancelala por separado para evitar cobros futuros.</p>
+
+    <h2>Datos guardados solo en tu dispositivo</h2>
+    <p>El nombre y edad de tus hijos, así como tus favoritos, se guardan <strong>localmente con Hive</strong> dentro del celular y <strong>nunca se envían a nuestros servidores</strong>.</p>
+    <p>Para borrar esos datos no hace falta que nos contactes — basta con <strong>desinstalar la app</strong>. Toda la información local se elimina junto con el desinstale.</p>
+
+    <h2>Contacto</h2>
+    <p>Cualquier duda sobre la eliminación de tu cuenta:</p>
+    <p>📧 <strong>appsdevlabs@gmail.com</strong></p>
+
+    <div class="footer">
+      Última actualización: 13 de junio de 2026.
+    </div>
+  </div>
+</body>
+</html>
