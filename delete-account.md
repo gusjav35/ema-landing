@@ -2,7 +2,7 @@
 
 **App:** Ema · **Desarrollador:** AppsDevLabs
 
-Si querés eliminar tu cuenta y los datos asociados en Ema, esta página te explica cómo hacerlo, qué se borra, qué se conserva y por cuánto tiempo.
+Si quieres eliminar tu cuenta y los datos asociados en Ema, esta página te explica cómo hacerlo, qué se borra, qué se conserva y por cuánto tiempo.
 
 ---
 
@@ -13,7 +13,7 @@ Por ahora la eliminación se procesa por email. Es simple:
 1. **Enviá un correo** a **appsdevlabs@gmail.com**
 2. **Asunto:** `Eliminar mi cuenta de Ema`
 3. **Incluí:** el email con el que te registraste.
-4. **(Opcional)** Si querés contarnos por qué te vas, nos sirve para mejorar. No es obligatorio.
+4. **(Opcional)** Si quieres contarnos por qué te vas, nos sirve para mejorar. No es obligatorio.
 
 Procesamos la solicitud en un **plazo máximo de 30 días** y te confirmamos por email cuando esté hecho.
 
@@ -48,7 +48,7 @@ Estos registros **no incluyen tu email ni datos identificables** después de la 
 
 ## Sobre las compras hechas vía Google Play o App Store
 
-La **gestión de tu suscripción de pago** la hacen Google y Apple en sus propios sistemas, no Ema. Si querés cancelar la suscripción o pedir reembolso:
+La **gestión de tu suscripción de pago** la hacen Google y Apple en sus propios sistemas, no Ema. Si quieres cancelar la suscripción o pedir reembolso:
 
 - **Android:** Play Store → Pagos y suscripciones → Ema → Cancelar.
 - **iOS:** Ajustes → tu perfil → Suscripciones → Ema → Cancelar.

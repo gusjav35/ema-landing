@@ -2,7 +2,7 @@
 
 **Última actualización:** 13 de junio de 2026
 
-Esta política describe cómo Ema ("la app", "nosotros") recopila, usa y protege la información de las familias que la usan. Si tenés alguna duda escribinos a **appsdevlabs@gmail.com**.
+Esta política describe cómo Ema ("la app", "nosotros") recopila, usa y protege la información de las familias que la usan. Si tienes alguna duda escríbenos a **appsdevlabs@gmail.com**.
 
 ---
 
@@ -18,7 +18,7 @@ Ema es una aplicación móvil desarrollada por **AppsDevLabs**, pensada para aco
 
 ## 2. Qué datos recopilamos
 
-### Datos que vos nos das directamente
+### Datos que tú nos das directamente
 
 | Dato | Cuándo | Por qué |
 |---|---|---|
@@ -26,7 +26,7 @@ Ema es una aplicación móvil desarrollada por **AppsDevLabs**, pensada para aco
 | **Contraseña** | Al registrarte | Para proteger tu cuenta (guardada cifrada por nuestro proveedor de autenticación) |
 | **Nombre del adulto** (opcional) | Al registrarte | Para personalizar la app |
 | **Nombre y edad del niño** | En el onboarding | Para recomendar contenido apropiado a su edad y personalizar la experiencia |
-| **Sexo del niño** (opcional) | En el onboarding | Para personalizar contenido (podés elegir "prefiero no responder") |
+| **Sexo del niño** (opcional) | En el onboarding | Para personalizar contenido (puedes elegir "prefiero no responder") |
 | **Tu relación con el niño** (mamá/papá/abuelo) | En el onboarding | Para personalizar mensajes interactivos |
 | **Objetivos espirituales y nivel de fe** | En el onboarding | Para sugerir el contenido más relevante |
 | **Hora preferida de recordatorio** | En el onboarding | Para enviarte una notificación local de oración a esa hora |
@@ -89,7 +89,7 @@ Ema está pensada para que los **adultos** (padres, madres, abuelos) la usen **j
 - El **comprador y titular de la cuenta es siempre un adulto.**
 - Los datos del niño (nombre, edad, sexo) que ingresás en el onboarding se guardan **localmente en tu dispositivo** (con la librería Hive) y **no se envían a nuestros servidores**.
 - No recopilamos ningún dato del niño que permita identificarlo fuera de tu dispositivo.
-- Si querés borrar los datos del niño, podés hacerlo desde Perfil → Quitar hijo, o eliminando la app.
+- Si quieres borrar los datos del niño, puedes hacerlo desde Perfil → Quitar hijo, o eliminando la app.
 
 Cumplimos con los principios de **COPPA** (EE.UU.), **GDPR-K** (UE) y la **Ley 25.326** (Argentina) sobre protección de datos de menores: ningún tratamiento de datos de menores se realiza sin consentimiento del adulto responsable.
 
@@ -109,15 +109,15 @@ Ningún sistema es 100% seguro. Si detectamos una brecha que afecte tus datos, t
 
 ## 7. Tus derechos
 
-En cualquier momento podés:
+En cualquier momento puedes:
 
-- **Acceder** a los datos que tenemos sobre vos.
+- **Acceder** a los datos que tenemos sobre ti.
 - **Rectificar** datos incorrectos desde Perfil dentro de la app.
-- **Eliminar** tu cuenta y todos sus datos asociados — escribinos a appsdevlabs@gmail.com con asunto *"Eliminar mi cuenta"* y procesamos el pedido en máximo 30 días.
+- **Eliminar** tu cuenta y todos sus datos asociados — escríbenos a appsdevlabs@gmail.com con asunto *"Eliminar mi cuenta"* y procesamos el pedido en máximo 30 días.
 - **Exportar** tus datos en formato legible — pedilo al mismo email.
 - **Oponerte** al tratamiento o **retirar tu consentimiento** en cualquier momento.
 
-Si pensás que no respetamos alguno de tus derechos, podés presentar una queja ante la autoridad de protección de datos de tu país.
+Si pensás que no respetamos alguno de tus derechos, puedes presentar una queja ante la autoridad de protección de datos de tu país.
 
 ---
 
