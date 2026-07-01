@@ -91,7 +91,7 @@ Ema está pensada para que los **adultos** (padres, madres, abuelos) la usen **j
 - No recopilamos ningún dato del niño que permita identificarlo fuera de tu dispositivo.
 - Si quieres borrar los datos del niño, puedes hacerlo desde Perfil → Quitar hijo, o eliminando la app.
 
-Cumplimos con los principios de **COPPA** (EE.UU.), **GDPR-K** (UE) y la **Ley 25.326** (Argentina) sobre protección de datos de menores: ningún tratamiento de datos de menores se realiza sin consentimiento del adulto responsable.
+Cumplimos con los principios de protección de datos de menores en las principales jurisdicciones donde Ema está disponible: **COPPA** (Estados Unidos), **GDPR-K** (Unión Europea y Espacio Económico Europeo), **LGPD** (Brasil), **LFPDPPP** (México), **LOPDGDD** (España) y **Ley 25.326** (Argentina), entre otras. En todos los casos: ningún tratamiento de datos de menores se realiza sin consentimiento del adulto responsable.
 
 ---
 
@@ -147,4 +147,4 @@ Para cualquier pregunta sobre esta política o sobre cómo manejamos tu informac
 
 ---
 
-*Esta política se rige por las leyes de Argentina. Cualquier disputa que no se pueda resolver de forma amistosa se someterá a los tribunales competentes de la Ciudad de Corrientes, Argentina.*
+*Ema está disponible en todo el mundo hispanohablante. Esta política se interpreta bajo las leyes de tu país de residencia habitual como consumidor. Se aplican las disposiciones del GDPR si vivís en la Unión Europea o el EEE, del CCPA si vivís en California, y las leyes locales de protección al consumidor en el resto de las jurisdicciones. Si tenés un reclamo que no pueda resolverse de forma amistosa, escribinos a appsdevlabs@gmail.com para intentar resolverlo antes de recurrir a instancias formales.*
